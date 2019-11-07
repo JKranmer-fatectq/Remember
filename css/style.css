@@ -105,7 +105,7 @@ p.lead {
 }
 
 .btn-outline-light:hover {
-    color: #d6619c;
+    color: #0eb108;
 }
 
 .btn-primary {
@@ -645,4 +645,9 @@ header {
     -webkit-box-shadow: 10px 10px 51px -28px rgba(0,0,0,0.75);
 -moz-box-shadow: 10px 10px 51px -28px rgba(0,0,0,0.75);
 box-shadow: 10px 10px 51px -28px rgba(0,0,0,0.75);
+}
+.shadow-in{
+-webkit-box-shadow: inset 10px 10px 51px -28px rgba(0,0,0,0.75);
+-moz-box-shadow: inset 10px 10px 51px -28px rgba(0,0,0,0.75);
+box-shadow: inset 10px 10px 51px -28px rgba(0,0,0,0.75);
 }
